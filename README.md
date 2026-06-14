@@ -13,10 +13,14 @@ To validate the dashboard metrics and perform deep-dive analysis, I have develop
 * **Agent Performance:** Evaluating handle volume and satisfaction scores per agent.
 * **Operational Insights:** Comparing performance across different communication channels.
 
-### 📊 Key Insights & Features
-* **Trend Analysis:** Visualizing call volume fluctuations to identify peak periods.
-* **Agent Performance:** Analyzing escalation rates per agent to target training and support needs.
-* **Operational Efficiency:** Monitoring key KPIs such as customer satisfaction and wait times to drive decision-making.
+### 📊 Project Structure
+* **Page 1: Overview** - Monitors key KPIs like Total Calls, Escalation Rates, and Agent Performance.
+* **Page 2: Channel Overview** - A deep-dive analysis comparing performance metrics (Satisfaction, Resolution, and Escalation rates) across different support channels (Phone, Chat, Email).
+
+### 💡 Key Business Insights
+* **Trend Analysis:** Identifies call volume fluctuations to help with shift scheduling.
+* **Agent Performance:** Pinpoints outliers in escalation rates to target specific training needs.
+* **Channel Efficiency:** Highlights which support channels are the most effective versus those that require process improvements (e.g., analyzing why Resolution Rates vary by channel).
 
 ### 📂 Project Contents
 * `setup_database.sql`: SQL scripts for database creation and seeding.
