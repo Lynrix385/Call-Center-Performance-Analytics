@@ -213,10 +213,9 @@ Note: Requires Power BI Pro subscription for full functionality. Demo link will 
 Domagoj Maljak
 Data Analyst | Power BI | SQL Server
 
-- 📧 Email: domagoj.maljak@email.com
-- 💼 LinkedIn: linkedin.com/in/domagoj-maljak
+- 📧 Email: domagojmaljak@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/domagoj-maljak-1701b1212/
 - 🐙 GitHub: @Lynrix385
-- 🌐 Portfolio: qualitylabs.com
 
 ---
 📄 License
